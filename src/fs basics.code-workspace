@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../fs basics"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fs basics"
+	}
+}
